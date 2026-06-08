@@ -223,11 +223,9 @@ MIT License — see [LICENSE](LICENSE) for details.
 ## 👤 Author
 
 **Salini Anbalagan**
-Regional Enterprise Data Steward Specialist | HRD Corp Accredited Trainer | PhD Candidate (UKM)
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin)](https://linkedin.com/in/YOUR_PROFILE)
-[![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?style=flat-square&logo=github)](https://github.com/YOUR_USERNAME)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/salini-anbalagan/)
+[![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?style=flat-square&logo=github)](https://github.com/build-with-salini)
 
 ---
-
 *Built as part of an open data portfolio initiative. Feedback and contributions welcome.*
